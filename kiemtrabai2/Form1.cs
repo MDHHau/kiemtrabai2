@@ -59,7 +59,7 @@ namespace kiemtrabai2
             {
                 mic = 3000;
             }
-            else if (txtyear.Text == "2003" && txtyear.Text == "2004")
+            else if (txtyear.Text == "2003" || txtyear.Text == "2004")
             {
                 mic = 3500;
             }
